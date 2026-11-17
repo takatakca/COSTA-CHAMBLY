@@ -369,3 +369,12 @@ Une réponse antérieure du chat a évoqué un PDF synthèse de dix pages; ce fi
 **Règle de classement :** séparer « déclaré », « visible dans une image », « inscrit sur une facture », « paiement démontré », « calcul de rapprochement », et « constat établi ». Préserver les pièces brutes, leur provenance et leurs empreintes, sans supprimer la partie technique initiale de l'inventaire.
 
 _Consolidation du 17 novembre 2026 — ChatGPT, à partir des conversations accessibles, des pièces Drive et des documents du dépôt COSTA-CHAMBLY._
+
+
+---
+
+## Mise à jour de l'intitulé commercial — 17 novembre 2026
+
+À la demande de l'émetteur, une version portant le titre **FACTURE — RAPIDE 2 NETTE / R2NETTE.CA — 9394-2621 Québec inc.** est ajoutée : [FACTURE_R2NETTE_COSTA_2026-11-17.md](FACTURE_R2NETTE_COSTA_2026-11-17.md).
+
+**Montant facturé indiqué : 9 000,00 $ avant taxes; 10 347,75 $ taxes comprises.** Il s'agit d'une version commerciale distincte de la pièce historique intitulée « pro forma », qui demeure conservée pour la traçabilité. La pièce ne prouve ni un paiement ni, à elle seule, les dates et heures de réalisation. Les justificatifs Recybac et plomberie ne sont pas ajoutés automatiquement au montant R2NETTE. Aucun document transmis à l'assureur par cette mise à jour.
