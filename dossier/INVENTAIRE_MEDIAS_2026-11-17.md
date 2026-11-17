@@ -144,3 +144,44 @@ Les tailles ci-dessous ont été recoupées avec Drive. Le SHA est le SHA-1 d'ob
 - Limite d'exhaustivité : toutes les informations matérielles accessibles dans ce fil et les extraits antérieurs disponibles ont été rassemblés; les discussions non accessibles en intégralité, journaux internes, octets de fichiers et métadonnées privées non publiées ne peuvent être transcrits ici.
 
 _Document de suivi et d'archivage, non expertise juridique._
+
+---
+
+# Annexe commerciale — R2NETTE / RAPIDE 2 NETTE — facture pro forma COSTA
+
+**Ajout : 17 novembre 2026.** Cette annexe complète sans supprimer ni reformuler les transcriptions, inventaires et résultats de contrôles conservés plus haut.
+
+## Émetteur
+- RAPIDE 2 NETTE — R2NETTE.CA
+- 9394-2621 Québec inc.
+- Adresse professionnelle, numéros TPS/TVQ et numéro définitif de facture : non établis dans les sources actuellement accessibles. Ne pas les inventer.
+
+## Site et dossier
+- Client / dossier : COSTA — Chambly; identité légale du destinataire de la facture non fixée par les sources consultées.
+- Adresse du site : 1336, avenue Bourgogne, Chambly (Québec).
+- Référence documentaire : R2N-COSTA-V9 / FIN-COSTA-001.
+- Nature : travaux de nettoyage et remise en état après sinistre, selon devis R2NETTE V9.
+
+## Bordereau pro forma documenté
+| Ligne | Description | Montant CAD |
+|---|---|---:|
+| 1 | Ensemble des services R2NETTE selon estimation V9, incluant une provision de conteneur de 600,00 $ à ne pas ajouter séparément | 9 000,00 $ HT |
+| | Taxes selon le total indiqué dans l'estimation V9 | 1 347,75 $ |
+| | **Total pro forma** | **10 347,75 $ TTC** |
+
+**Base de calcul du devis :** quatre journées prévues, quatre personnes prévues et 128 heures-personnes budgétaires (4 × 8 h × 4 jours). Il ne s'agit pas d'un relevé d'heures signé.
+
+## Autres justificatifs financiers non cumulés automatiquement
+- Recybac R-104619-697, 24 août 2026 : 685,00 $ HT / 787,58 $ TTC, conteneur 20 verges C.R.D. Provision de 600,00 $ déjà incluse dans le devis; écart HT de 85,00 $.
+- Plomberie no 1071, 29 octobre 2026 (travaux indiqués le 15 août) : 1 500,00 $ HT / 1 724,63 $ TTC; prestation distincte.
+- Les deux justificatifs de fournisseurs représentent ensemble 2 185,00 $ HT / 2 512,21 $ TTC et ne s'ajoutent pas automatiquement au total R2NETTE.
+
+## Liens internes et conservation
+- Registre de rapprochement : [RAPPROCHEMENT_FINANCIER.md](RAPPROCHEMENT_FINANCIER.md).
+- Index : [INDEX.md](INDEX.md).
+- Annexe/facture pro forma distincte : [FACTURE_PRO_FORMA_R2NETTE_COSTA_2026-11-17.md](FACTURE_PRO_FORMA_R2NETTE_COSTA_2026-11-17.md).
+- La déclaration policière mentionne « Nettoyage des lieux — RAPIDE 2 NETTE — Émilie ».
+- L'inventaire comporte 59 photographies, 17 MP4 et les cinq JPEG du chat, avec les distinctions détaillées plus haut; les 27 postes d'équipements et leur transcription restent intégralement conservés.
+- Aucune facture n'a été envoyée à l'assureur par cette opération.
+
+**Statut : pro forma documentaire, non facture acquittée ni certification d'exécution des heures prévues.**
